@@ -13,4 +13,9 @@ class MakeColumnsNullable extends Migration
             $table->longText('css')->nullable()->change();
         });
     }
+
+    public function down()
+    {
+
+    }
 }
