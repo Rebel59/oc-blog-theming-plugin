@@ -1,3 +1,6 @@
 1.0.0:
 - First version of Blog Theming
 - add_theme_columns.php
+1.0.1:
+- Make existing columns nullable.
+- make_columns_nullable.php
