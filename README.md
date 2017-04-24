@@ -2,7 +2,7 @@
 Provides theming options to the Rainlab Blog plugin.
 
 ### Dependencies
-- [Rainlab.Blog](https://github.com/rainlab/blog-plugin)
+- [RainLab.Blog](https://github.com/rainlab/blog-plugin)
 
 ### Usage
 _Make sure the migrations that comes with this plugin have been installed. This should happen automatically upon installing this plugin, but might this not be the case then logging out and back in should do the trick._

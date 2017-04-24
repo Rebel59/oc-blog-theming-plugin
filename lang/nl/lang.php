@@ -2,7 +2,7 @@
 return [
     'plugin' => [
         'name' => 'Blog Themes',
-        'description' => 'Voegt thema opties to aan Rainlab.Blog Plugin',
+        'description' => 'Voegt thema opties to aan Rainlab Blog Plugin',
     ],
     'models' => [
         'category' => [
