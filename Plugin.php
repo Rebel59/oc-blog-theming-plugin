@@ -30,7 +30,7 @@ class Plugin extends PluginBase
     /**
      * @var array Plugin dependencies
      */
-    public $require = ['Rainlab.Blog'];
+    public $require = ['RainLab.Blog'];
 
     /**
      * Boot method, called right before the request route.
