@@ -6,3 +6,6 @@
 - make_columns_nullable.php
 1.0.2:
 - Fixed typo in plugin dependencies and added german translations (Thanks @justb81)
+1.0.3:
+- Add custom classes field
+- add_class_column.php

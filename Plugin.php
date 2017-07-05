@@ -69,6 +69,11 @@ class Plugin extends PluginBase
                     'type'     => 'codeeditor',
                     'language' => 'css',
                     'tab'      => 'rebel59.blogthemes::lang.tabs.advanced_theme'
+                ],
+                'custom_classes' => [
+                    'label'    => 'rebel59.blogthemes::lang.models.category.fields.custom_classes',
+                    'type'     => 'text',
+                    'tab'      => 'rebel59.blogthemes::lang.tabs.advanced_theme'
                 ]
             ]);
         });
